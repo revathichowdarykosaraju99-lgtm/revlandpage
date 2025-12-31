@@ -1,4 +1,9 @@
 
+  <link rel="stylesheet" href="style.css">
+
+<body>
+ 
+    <h2>LandingPage</h2>
     <nav>
       <a href="#">Home</a>
       <a href="#">Features</a>
@@ -31,4 +36,7 @@
   <footer>
     <p>© 2025 MyLandingPage. All rights reserved.</p>
   </footer>
+</body>
+</html>
+
 
